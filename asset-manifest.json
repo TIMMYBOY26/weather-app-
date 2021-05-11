@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TIMMYBOY26/weather-app-.git/static/css/main.4019a310.chunk.css",
+    "main.js": "/TIMMYBOY26/weather-app-.git/static/js/main.b07e4454.chunk.js",
+    "main.js.map": "/TIMMYBOY26/weather-app-.git/static/js/main.b07e4454.chunk.js.map",
+    "runtime-main.js": "/TIMMYBOY26/weather-app-.git/static/js/runtime-main.7ca1194f.js",
+    "runtime-main.js.map": "/TIMMYBOY26/weather-app-.git/static/js/runtime-main.7ca1194f.js.map",
+    "static/js/2.e63f3ed8.chunk.js": "/TIMMYBOY26/weather-app-.git/static/js/2.e63f3ed8.chunk.js",
+    "static/js/2.e63f3ed8.chunk.js.map": "/TIMMYBOY26/weather-app-.git/static/js/2.e63f3ed8.chunk.js.map",
+    "index.html": "/TIMMYBOY26/weather-app-.git/index.html",
+    "static/css/main.4019a310.chunk.css.map": "/TIMMYBOY26/weather-app-.git/static/css/main.4019a310.chunk.css.map",
+    "static/js/2.e63f3ed8.chunk.js.LICENSE.txt": "/TIMMYBOY26/weather-app-.git/static/js/2.e63f3ed8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TIMMYBOY26/weather-app-.git/static/media/warm.6ed24c88.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca1194f.js",
+    "static/js/2.e63f3ed8.chunk.js",
+    "static/css/main.4019a310.chunk.css",
+    "static/js/main.b07e4454.chunk.js"
+  ]
+}
